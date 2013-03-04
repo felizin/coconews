@@ -2,4 +2,4 @@ Django==1.4.3
 pil
 Sorl-thumbnail==11.12
 Markdown==2.2.1
-Sqlite3
+South
